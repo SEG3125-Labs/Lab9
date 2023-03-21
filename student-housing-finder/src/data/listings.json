@@ -1,0 +1,31 @@
+[
+    {
+        "id": "0",
+        "title": "1040 Besserer st.",
+        "description": "HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page, and consists of a series of elements. HTML elements tell the browser how to display the content.",
+        "photoUrl": "image01.jpeg",
+        "location": "Ottawa"
+    },
+    {
+        "id": "1",
+        "title": "553 Toronto st.",
+        "description": "Description 1",
+        "photoUrl": "image02.jpeg",
+        "location": "Toronto"
+    },
+    {
+        "id": "2",
+        "title": "33 Montreal st.",
+        "description": "Description 1",
+        "photoUrl": "image03.jpeg",
+        "location": "Montreal"
+    },
+    {
+        "id": "3",
+        "title": "1433 Calgary st.",
+        "description": "Description 1",
+        "photoUrl": "image04.jpeg",
+        "location": "Calgary"
+    }
+    
+]
