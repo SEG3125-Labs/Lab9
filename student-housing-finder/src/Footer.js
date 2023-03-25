@@ -4,7 +4,7 @@ import ListItem from './component/ListItem'
 
 function Footer() {
   return (
-    <div style={{ backgroundColor: 'lightgray' }}>
+    <div style={{ padding: "10px", backgroundColor: 'lightgray' }}>
       <h1>Student Housing Finder</h1>
       <a>Phone: (938)033-0343</a>
       <br />

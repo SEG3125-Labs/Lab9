@@ -18,7 +18,9 @@ function ListItem(props) {
         <h5>{props.location}</h5>
         <br></br>
         <hr></hr>
-        <button onClick={handleClick}>View Detail</button>
+
+        <button onClick={handleClick} class="btn"><span>View Detail</span></button>
+        {/* <button onClick={handleClick}>View Detail</button> */}
       </div>
 
     </div>

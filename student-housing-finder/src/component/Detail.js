@@ -25,8 +25,8 @@ function Detail(props) {
 
 
         </div>
-        <button onClick={handleClick}>Apply for housing</button>
-
+        {/* <button onClick={handleClick}>Apply for housing</button> */}
+        <button onClick={handleClick} class="btn"><span>Apply for housing</span></button>
       </div>
 
       <p>{h.description}</p>

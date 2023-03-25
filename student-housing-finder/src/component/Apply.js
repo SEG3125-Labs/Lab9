@@ -40,6 +40,8 @@ function Apply(props) {
 
             </div>
 
+            <h2>Let us kown you:</h2>
+
 
             <form onSubmit={handleSubmit} className="user-info-form">
                 <label>
@@ -70,7 +72,7 @@ function Apply(props) {
                     Zip Code:
                     <input type="text" value={zip} onChange={(e) => setZip(e.target.value)} />
                 </label>
-                <input type="submit" value="Submit" />
+                <input type="submit" value="Apply" />
             </form>
 
 

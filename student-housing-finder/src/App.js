@@ -12,7 +12,10 @@ function App() {
     <div className="App">    
       {/*Header*/}
       <div style={{height: "50px"}}></div>
-      <div id="google_translate_element"></div>
+
+
+      <div style={{ width: "200px",margin:"auto", backgroundColor: 'DarkGray' }} id="google_translate_element"></div>
+      
       <Home />
       <Footer />
     </div>
