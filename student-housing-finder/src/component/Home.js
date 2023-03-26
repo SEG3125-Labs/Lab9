@@ -71,6 +71,7 @@ function Home() {
 
       <div style={{ padding: "8px" }}>
         <h1>Student Housing Finder</h1>
+        <a href="tel:9380330343">Help</a>
       </div>
       <div>
 
