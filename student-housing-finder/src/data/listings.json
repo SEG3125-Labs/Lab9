@@ -1,34 +1,38 @@
 [
     {
         "id": "0",
-        "title": "1040 Besserer st.",
+        "title": "235 Charlotte St.",
         "description": "Welcome to this stunning Seaside Mansion located in the heart of the desert! This luxurious home boasts 10 bedrooms and 15 bathrooms, making it the perfect space for entertaining guests or just enjoying the spacious accommodations with your family.",
         "photoUrl": "image01.jpeg",
-        "location": "Ottawa, 1040 Besserer st.",
-        "price": "1234.99"
+        "location": "Ottawa, 235 Charlotte St.",
+        "price": "1234.99",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2799.935474658082!2d-75.67639918390636!3d45.43080204369145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce0511bc63a67f%3A0xec2d77092eaf9b5!2s235%20Charlotte%20St%2C%20Ottawa%2C%20ON%20K1N%208L4!5e0!3m2!1sen!2sca!4v1679874568680!5m2!1sen!2sca"
     },
     {
         "id": "1",
-        "title": "553 Toronto st.",
+        "title": "105 Madison Ave.",
         "description": "The chef's kitchen is equipped with top-of-the-line stainless steel appliances, including a Sub-Zero refrigerator, a six-burner Wolf range, and a built-in Miele espresso machine. You'll love cooking up gourmet meals in this spacious and stylish kitchen.",
         "photoUrl": "image02.jpeg",
-        "location": "Toronto, 553 Toronto st.",
-        "price": "1254.99"
+        "location": "Toronto, 105 Madison Ave",
+        "price": "1254.99",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2885.906466183033!2d-79.40618568393893!3d43.67091505930199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b349815067057%3A0x1040cc5dcf9ba6d1!2s105%20Madison%20Ave%2C%20Toronto%2C%20ON%20M5R%202S3!5e0!3m2!1sen!2sca!4v1679874906923!5m2!1sen!2sca"
     },
     {
         "id": "2",
-        "title": "33 Montreal st.",
+        "title": "4860 Rue Fabre",
         "description": "The master suite is a true oasis, complete with a private balcony overlooking the non-existent beach, a spa-like bathroom with a steam shower and a jetted tub, and a walk-in closet fit for a fashionista. Each of the additional bedrooms has its own ensuite bathroom, ensuring your guests will feel comfortable and pampered.",
         "photoUrl": "image03.jpeg",
-        "location": "Montreal, 33 Montreal st.",
-        "price": "1644.99"
+        "location": "Montreal, 4860 Rue Fabre",
+        "price": "1644.99",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d742.835961065749!2d-73.5809024380693!3d45.532785422789544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91bdc266471cb%3A0x10e5924ca57875b7!2s4860%20Rue%20Fabre%2C%20Montr%C3%A9al%2C%20QC%20H2J%203W2!5e0!3m2!1sen!2sca!4v1679874978788!5m2!1sen!2sca"
     },
     {
         "id": "3",
-        "title": "1433 Calgary st.",
+        "title": "7204 Fountain Rd SE",
         "description": "The backyard of this Seaside Mansion is an entertainer's dream, featuring a sparkling infinity pool, a hot tub, and a fully-equipped outdoor kitchen with a built-in BBQ and refrigerator. The custom-built fire pit is the perfect place to gather with friends and family, roast marshmallows, and watch the stars twinkle in the clear desert sky.",
         "photoUrl": "image04.jpeg",
-        "location": "Calgary, 1433 Calgary st.",
-        "price": "1054.99"
+        "location": "Calgary, 7204 Fountain Rd SE",
+        "price": "1054.99",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d827.1748010124261!2d-114.05609821255842!3d50.98830978938628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x537170e56f03c7cb%3A0x9f38f5c3c9e13377!2s7204%20Fountain%20Rd%20SE%2C%20Calgary%2C%20AB%20T2H%200W8!5e0!3m2!1sen!2sca!4v1679875026413!5m2!1sen!2sca"
     }
 ]

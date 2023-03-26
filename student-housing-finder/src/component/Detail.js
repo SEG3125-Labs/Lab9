@@ -22,6 +22,14 @@ function Detail(props) {
           <p>{h.description}</p>
 
           <h6>${h.price}/month</h6>
+          <iframe
+            src={h.mapLink}
+            width="600"
+            height="450"
+            style={{ border: "0" }}
+            allowfullscreen=""
+            loading="lazy"
+          ></iframe>
 
           <br></br>
 
@@ -30,9 +38,6 @@ function Detail(props) {
         {/* <button onClick={handleClick}>Apply for housing</button> */}
         <button onClick={handleClick} class="btn"><span>Apply for housing</span></button>
       </div>
-
-      <p>{h.description}</p>
-      <h5>{h.location}</h5>
     </div>
   
   );
