@@ -16,6 +16,7 @@ function ListItem(props) {
         <h3>{props.title}</h3>
         <p>{props.description}</p>
         <h5>{props.location}</h5>
+        <h6>${props.price}/month</h6>
         <br></br>
         <hr></hr>
 

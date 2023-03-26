@@ -36,6 +36,8 @@ function Apply(props) {
                     <h3>{h.title}</h3>
                     <p>{h.description}</p>
                     <h5>{h.location}</h5>
+
+                    <h6>${h.price}/month</h6>
                 </div>
 
             </div>

@@ -21,6 +21,8 @@ function Detail(props) {
           <h3>{h.title}</h3>
           <p>{h.description}</p>
 
+          <h6>${h.price}/month</h6>
+
           <br></br>
 
 

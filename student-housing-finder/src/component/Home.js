@@ -53,7 +53,8 @@ function Home() {
           .map((listing, key) =>
             <ListItem showMessage={showMessage} key={key} mykey={listing.id} title={listing.title}
               description={listing.description} photoUrl={listing.photoUrl}
-              location={listing.location}></ListItem>)
+              location={listing.location}
+              price={listing.price}></ListItem>)
         }
 
       </>
