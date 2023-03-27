@@ -16,11 +16,20 @@ function Apply(props) {
         // code to handle form submission goes here
     };
 
+
+
+    // let mm = <input onClick={handleClick} type="submit" value="Apply" />
+
     function handleClick() {
+
+        // mm = <h4>This take take around 5 seconds ... </h4>
+        alert("Application is submiting... This may take 4 seconds...")
+
         props.setP("Home");
     }
 
     let h = Listings.find(e => e.id === props.id)
+
 
     // console.log(props.id)
     return (
@@ -74,7 +83,9 @@ function Apply(props) {
                     Zip Code:
                     <input type="text" value={zip} onChange={(e) => setZip(e.target.value)} />
                 </label>
-                <input type="submit" value="Apply" />
+
+                {/* {mm} */}
+                <input onClick={handleClick} type="submit" value="Apply" />
             </form>
 
 
