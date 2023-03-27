@@ -12,7 +12,12 @@ function Detail(props) {
   return (
 
     <div style={{  padding: "25px 50px", backgroundColor: 'DarkGray' }}>
+
+<h2>Detail Page</h2>
       <div style={{ display: "flex", flexDirection: "row"}}>
+
+
+
         <div style={{ backgroundColor: 'DarkGray' }}>
           <img style={{ padding: 10 }} src={"/img/" + h.photoUrl}></img>
 

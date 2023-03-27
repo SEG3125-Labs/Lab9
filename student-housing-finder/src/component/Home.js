@@ -48,7 +48,7 @@ function Home() {
         </select>
         <p>{message}</p>
 
-        {Listings.filter((item, index) => filter != "All" ? item.location.includes( filter) : true)
+        {Listings.filter((item, index) => filter != "All" ? item.location.includes(filter) : true)
           .filter((item, index) => search != "" ? item.title.includes(search) : true)
           .map((listing, key) =>
             <ListItem showMessage={showMessage} key={key} mykey={listing.id} title={listing.title}
@@ -60,12 +60,14 @@ function Home() {
       </>
   } else if (page === "apply") {
     mm = (<div>
-      <button onClick={back} class="btn"><span>Go back</span></button>
+
+
+      <button onClick={back} class="btn"><span>Return Home Page</span></button>
       <Apply setP={setP} id={message}></Apply></div>)
   }
   else {
 
-    mm = (<><button onClick={back} class="btn"><span>Go back</span></button><Detail setP={setP} id={message}></Detail></>)
+    mm = (<><button onClick={back} class="btn"><span>Return Home Page</span></button><Detail setP={setP} id={message}></Detail></>)
   }
   return (
     <div className="Home">

@@ -26,7 +26,7 @@ function Apply(props) {
     return (
 
         <div style={{ padding: "25px 50px" }}>
-
+            <h2>Application Page</h2>
             <div style={{ display: "flex", flexDirection: "row", padding: "25px 50px" }}>
                 <div style={{ backgroundColor: 'DarkGray' }}>
                     <img style={{ padding: 10 }} src={"/img/" + h.photoUrl}></img>
